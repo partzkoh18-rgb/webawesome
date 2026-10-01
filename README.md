@@ -92,3 +92,5 @@ Designing, developing, and supporting this library requires a lot of time, effor
 - [Follow on Twitter](https://twitter.com/shoelace_style)
 
 Whether you're building Shoelace or building something _with_ Shoelace — have fun creating! 🥾
+
+@partzkoh_666
